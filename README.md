@@ -1,5 +1,11 @@
+<h1 align="left">Hi 👋 I am Athira</h1>
+
+<h3 align="left"></h3>
+
+###
+
 # 💫 About Me:
-🌱 I’m currently learning TypeScript<br>💬 Ask me about MEAN<br>⚡ Fun fact, I completed MSc in Physics
+🌱 I’m currently learning NgRx<br>💬 Ask me about MEAN<br>⚡ Fun fact, My postgraduate degree is in Physics
 
 
 ## 🌐 Socials:
