@@ -3,8 +3,6 @@
 <h3 align="left"></h3>
 
 ###
-
-# 💫 About Me:
 🌱 I’m currently learning NgRx<br>💬 Ask me about MEAN<br>⚡ Fun fact, My postgraduate degree is in Physics
 
 
